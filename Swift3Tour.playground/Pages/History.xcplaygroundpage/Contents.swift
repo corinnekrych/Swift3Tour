@@ -1,5 +1,5 @@
 /*:
-## A Swift History
+# A Swift History
 ### June 2, 2014
  The Swift language is announced at the WWDC 2014 Keynote.
 ### June 8, 2015
@@ -15,6 +15,6 @@
 ### September 13, 2016
  Swift 3 is released
 
- [Next](@next)
-:*/
+ [Previous](@previous) | [Next](@next)
+*/
 

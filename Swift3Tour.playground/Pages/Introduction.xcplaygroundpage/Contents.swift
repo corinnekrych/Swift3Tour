@@ -1,7 +1,5 @@
-//: [Previous](@previous) | [Next](@next)
-
-//: ![me](dan.png)
 let presentation = "Swift 3: a quick tour"
+//: ![me](dan.png)
+
 var authors = ["Corinne", "Julio"]
-let you = "enter your name"
-authors += [you]
+//: [Previous](@previous) | [Next](@next)

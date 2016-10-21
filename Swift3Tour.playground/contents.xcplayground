@@ -2,11 +2,10 @@
 <playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Introduction'/>
-        <page name='Why Swift?'/>
         <page name='History'/>
         <page name='Breaking changes'/>
         <page name='Swift2.3 vs Swift3'/>
         <page name='API Design Guide'/>
-        <page name='Objective-C Mapping'/>
+        <page name='Pitfalls'/>
     </pages>
 </playground>
