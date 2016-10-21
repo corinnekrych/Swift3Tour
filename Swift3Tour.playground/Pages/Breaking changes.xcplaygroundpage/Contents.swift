@@ -10,6 +10,6 @@
 //: 
 //: ### one more thing...
 //: ...to bear in mind:
-//: Swift 3 is not delivered with ABI (application Binary Interface) stability.
+//: Swift 3 is not delivered with ABI (Application Binary Interface) stability.
 //:
 //: [Previous](@previous) | [Next](@next)

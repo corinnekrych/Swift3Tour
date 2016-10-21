@@ -1,14 +1,14 @@
 
 //: # Pitfalls
-//: Ok, you run the migration tolls, is that all?
+//: Ok, you run the migration toll, is that all?
 //:
 //: *NO!*
-//: - You code will not compile straight aways
+//: - You code will not compile straight away
 //: - Cautious about Type
 //: - Redesign your API naming
 //: ### Any vs AnyObject
 //: ### Labels
 //: ### Objective-C Wrapper
-//: - NSDat vs Data
+//: - NSData vs Data
 
 //: [Previous](@previous) | [Next](@next)
