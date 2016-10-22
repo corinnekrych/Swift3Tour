@@ -40,5 +40,5 @@ FH-*/
 templates/FHStarterProject/FH.framework/*
 
 ## Playgrounds
-*/timeline.xctimeline
-Swift3Tour.playground/playground.xcworkspace/*
+**/timeline.xctimeline
+**/playground.xcworkspace
