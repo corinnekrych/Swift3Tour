@@ -1,7 +1,5 @@
-//: [Previous](@previous)
 
-import Foundation
+//: # Take Away
+//: [take away](grammar.gif)
 
-var str = "Hello, playground"
-
-//: [Next](@next)
+//: [Previous](@previous) | [Next](@next)

@@ -1,14 +1,18 @@
 
 //: # Pitfalls
-//: Ok, you run the migration toll, is that all?
+//: Ok, you run the migration tool, is that all?
 //:
-//: *NO!*
+//: **NO!**
 //: - You code will not compile straight away
-//: - Cautious about Type
+//:    * fix it, make it compile
+//:    * run unit test: make them passed
+//: - Cautious about Type:
+//:    * Any vs AnyObject
+//:    * Swift wrapper: Data vs NSData not the same!
+//:    * NSMutableURLRequest / NSURLRequest is replaced by URLRequest: use var or let
 //: - Redesign your API naming
-//: ### Any vs AnyObject
-//: ### Labels
-//: ### Objective-C Wrapper
-//: - NSData vs Data
-
+//:    * think about labels
+//:    * method naming
+//:    * lower case enum
+//:
 //: [Previous](@previous) | [Next](@next)
