@@ -38,3 +38,7 @@ FH-*/
 !fh-ios-sdk/
 **/DerivedData/*
 templates/FHStarterProject/FH.framework/*
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
