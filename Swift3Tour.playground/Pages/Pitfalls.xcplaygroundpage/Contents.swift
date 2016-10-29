@@ -7,6 +7,7 @@
 //:    * fix it, make it compile
 //:    * run unit test: make them passed
 //: - Cautious about Type:
+//:    * `sort()` on Array => is now a mutable function
 //:    * Any vs AnyObject
 //:    * Swift wrapper: Data vs NSData not the same!
 //:    * NSMutableURLRequest / NSURLRequest is replaced by URLRequest: use var or let

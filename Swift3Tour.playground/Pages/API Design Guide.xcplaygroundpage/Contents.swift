@@ -82,9 +82,9 @@ http.request("get", path: "/get", completionHandler: {(response, error) in
     // handle response
 })
 // become
-http.request(method: "get", path: "/get", completionHandler: {(response, error) in
+//http.request(method: "get", path: "/get", completionHandler: {(response, error) in
     // handle response
-})
+//})
 /*:
  - Consistent rules for init: init got all labels like functions/methods
 */

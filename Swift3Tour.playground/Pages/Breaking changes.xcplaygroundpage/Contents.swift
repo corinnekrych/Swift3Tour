@@ -1,4 +1,4 @@
-//: # Swift 3 is migration is **painful**.
+//: # Swift 3 migration
 //: ![break](break.png)
 //:
 //: Almost every single method call breaks.
